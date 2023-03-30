@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
+body{
+    color: black;
+    background-color: #b0bec5
+
+    ;
+    font-family: 'Open Sans', sans-serif;
+}
+h1{
+    position: relative;
+    top: 40px;
+    left: 600px;
+    font-size: 45px;
+    
+
+}
+a{
+    text-decoration: none;
+    color: beige;
+    font-size: 20px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    background-color: #f4511e;
+    margin: 30px;
+    position: relative;
+    top: 250px;
+    left: 50px;
+    border-radius: 10px;
+}
+.java{
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.two{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.three{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.four{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.five{
+    padding-left: 30px;
+    padding-right: 30px;
+}
